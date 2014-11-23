@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "\"Android Trends 2014\"",
+    "packageVersion": "0.0.0",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "padc",
+    "githubRepository": "devcon-summit-2014-android-trends"
+  }
+}

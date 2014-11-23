@@ -1,0 +1,1 @@
+![appswitcher](img/appswitcher.jpg)
